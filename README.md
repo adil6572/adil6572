@@ -36,13 +36,12 @@ I am Aadil Shaikh
 
 ### 👨‍💻 Programming Languages
 
-[![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white)](#) [![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black)](#) [![NodeJS](https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white)](#) [![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white)](#) [![SQL](https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white)](#) 
+[![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white)](#) [![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white)](#)[![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white)](#) [![SQL](https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white)](#) 
 
 
 ### 🗄️ Databases
 
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](#)[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](#)
-
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](#)
 ### 📊 Data Analysis Framework
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#) [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](#) [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](#) [![Seaborn](https://img.shields.io/badge/Seaborn-008FBF?logo=python&logoColor=white)](#) [![SQL](https://img.shields.io/badge/SQL-003366?logo=sql&logoColor=white)](#) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=white)](#) 
