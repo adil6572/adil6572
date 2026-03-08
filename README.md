@@ -28,7 +28,7 @@
 ```ts
 const aadil = {
   role:      "AI & Data Science Graduate",
-  edu:       "B.Sc. AI & Data Science — University of Mumbai ✅",
+  edu:       "B.E. AI & Data Science — University of Mumbai ✅",
   focus:     ["Full Stack Dev", "Machine Learning", "Web Scraping"],
   currently: "Building an IoT sensor monitoring platform 🏭",
   openTo:    ["Freelance", "Contracts", "Collaborations"],
